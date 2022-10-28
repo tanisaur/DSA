@@ -1,4 +1,3 @@
-# DSA
-## Data Structures and ALgorithms
+## Data Structures and Algorithms
 
 Repo for working through practice problems
